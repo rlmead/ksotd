@@ -6,8 +6,8 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | - | - | - | - |
 | 09/23 | `option-[arrow]` | VS Code, Codewars | Grab and move a line of code |
 | 09/24 | `cmd-tab` | OSX | Toggle between open apps |
-| 09/25 | `ctrl-tab` | Chrome, VS Code... most apps? | Toggle between open tabs in the current app |
-| 09/28 |  |  |  |
+| 09/25 | `ctrl-tab` / `ctrl-shift-tab` / `cmd-[number]` | Chrome, VS Code... most apps? | Toggle between open tabs in the current app |
+| 09/28 | `cmd~` | Chrome, VS Code... most apps? | Toggle between open windows in the current app |
 | 09/29 |  |  |  |
 | 09/30 |  |  |  |
 | 10/01 |  |  |  |
