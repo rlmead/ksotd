@@ -8,8 +8,8 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 09/24 | `cmd-tab` | OSX | Toggle between open apps |
 | 09/25 | `ctrl-tab` / `ctrl-shift-tab` / `cmd-[number]` | Chrome, VS Code... most apps? | Toggle between open tabs in the current app |
 | 09/28 | `cmd~` | OSX | Toggle between open windows in the current app |
-| 09/29 | `cmd-w` / `cmd-q` | most apps | Close the current tab or window / quit the app |
-| 09/30 |  |  |  |
+| 09/29 | `cmd-n` / `cmd-t` | most apps | Open a new window or new tab |
+| 09/30 | `cmd-w` / `cmd-q` | most apps | Close the current tab or window / quit the app |
 | 10/01 |  |  |  |
 | 10/02 |  |  |  |
 | 10/05 |  |  |  |
