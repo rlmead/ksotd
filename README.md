@@ -10,7 +10,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 09/28 | `cmd~` | OSX | Toggle between open windows in the current app |
 | 09/29 | `cmd-n` / `cmd-t` / `cmd-spacebar` | most apps | Open a new window, new tab, or app that's not currently running |
 | 09/30 | `cmd-w` / `cmd-q` | most apps | Close the current tab or window / quit the app |
-| 10/01 |  |  |  |
+| 10/01 | `cmd-f` & `option-cmd-f` / `cmd-shift-f` `cmd-shift-h` | VS Code and some other editors | Open local search or search & replace / open workspace search or search & replace |
 | 10/02 |  |  |  |
 | 10/05 |  |  |  |
 | 10/06 |  |  |  |
