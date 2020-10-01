@@ -11,7 +11,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 09/29 | `cmd-n`<br>`cmd-t`<br>`cmd-spacebar` | most apps | Open a new window<br>Open new tab<br>Open app that's not currently running |
 | 09/30 | `cmd-w`<br>`cmd-q` | most apps | Close the current tab or window<br>Quit the app |
 | 10/01 | `cmd-f` & `option-cmd-f`<br>`cmd-shift-f` `cmd-shift-h` | VS Code and some other editors | Open local search or search & replace<br>Open workspace search or search & replace |
-| 10/02 |  |  |  |
+| 10/02 | `fnc-del` | OSX | Delete rightwards |
 | 10/05 |  |  |  |
 | 10/06 |  |  |  |
 | 10/07 |  |  |  |
