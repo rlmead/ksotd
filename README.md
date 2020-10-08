@@ -16,4 +16,4 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/06 | `opt-del` & `opt-fnc-del`<br>`cmd-del` & `cmd-fnc-del` | OSX (but not terminal) | Delete next word to the left/right of cursor<br>Delete everything to the start/end of line from cursor |
 | 10/07 | `cmd-[arrow]`<br>`fnc-[arrow]` | Text editing apps | Move cursor to the furthest edge in a document<br>Move cursor to the furthest edge in the window |
 | 10/08 | `opt-shift-\` | VSCode (other editors?) | When called from a line with a bracket, jumps to line with closing bracket |
-| 10/09 |  |  |  |
+| 10/09 | `cmd-[` & `cmd-]`<br>`tab` & `shift-tab` |  |  |
