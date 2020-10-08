@@ -16,4 +16,25 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/06 | `opt-del` & `opt-fnc-del`<br>`cmd-del` & `cmd-fnc-del` | OSX (but not terminal) | Delete next word to the left/right of cursor<br>Delete everything to the start/end of line from cursor |
 | 10/07 | `cmd-[arrow]`<br>`fnc-[arrow]` | Text editing apps | Move cursor to the furthest edge in a document<br>Move cursor to the furthest edge in the window |
 | 10/08 | `opt-shift-\` | VSCode (other editors?) | When called from a line with a bracket, jumps to line with closing bracket |
-| 10/09 | `cmd-[` & `cmd-]`<br>`tab` & `shift-tab` |  |  |
+| 10/09 | `opt-k opt-s` | VSCode | Show list of shortcuts :D |
+| 10/12 | `cmd-[` & `cmd-]`<br>`tab` & `shift-tab` | VSCode (other editors?) | Move highlighted code by one indentation to the left or right |
+| 10/13 |  |  |  |
+| 10/14 |  |  |  |
+| 10/15 |  |  |  |
+| 10/16 |  |  |  |
+| 10/19 |  |  |  |
+| 10/20 |  |  |  |
+| 10/21 |  |  |  |
+| 10/22 |  |  |  |
+| 10/23 |  |  |  |
+| 10/26 |  |  |  |
+| 10/27 |  |  |  |
+| 10/28 |  |  |  |
+| 10/29 |  |  |  |
+| 10/30 |  |  |  |
+| 11/02 |  |  |  |
+| 11/03 |  |  |  |
+| 11/04 |  |  |  |
+| 11/05 |  |  |  |
+| 11/06 |  |  |  |
+
