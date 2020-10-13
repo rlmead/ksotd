@@ -18,7 +18,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/08 | `opt-shift-\` | VSCode (other editors?) | When called from a line with a bracket, jumps to line with closing bracket |
 | 10/09 | `cmd-k cmd-s` | VSCode | Show list of shortcuts :D |
 | 10/12 | `cmd-[` & `cmd-]`<br>`tab` & `shift-tab` | VSCode (other editors?) | Move highlighted code by one indentation to the left or right |
-| 10/13 |  |  |  |
+| 10/13 | `cmd-d`<br>`cmd-k cmd-d`<br>`cmd-f` (search) `opt-enter` | VSCode (other editors?) | Select next instance of currently highlighted string (enabling multiple cursors)<br>Skip the next instance of the highlighted string to highlight the one that follows<br>Select all instances of a particular string |
 | 10/14 |  |  |  |
 | 10/15 |  |  |  |
 | 10/16 |  |  |  |
