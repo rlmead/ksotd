@@ -19,8 +19,8 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/09 | `cmd-k cmd-s` | VSCode | Show list of shortcuts :D |
 | 10/12 | `cmd-[` & `cmd-]`<br>`tab` & `shift-tab` | VSCode (other editors?) | Move highlighted code by one indentation to the left or right |
 | 10/13 | `cmd-d`<br>`cmd-k cmd-d`<br>`cmd-f` (search) `opt-enter` | VSCode (other editors?) | Select next instance of currently highlighted string (enabling multiple cursors)<br>Skip the next instance of the highlighted string to highlight the one that follows<br>Select all instances of a particular string |
-| 10/14 |  |  |  |
-| 10/15 |  |  |  |
+| 10/14 | `opt-shift-[up/down arrow]` | VSCode (other editors?) | Copy the entire line that the cursor is in above/below the cursor (line does not need to be highlighted) |
+| 10/15 | `opt-shift-[left/right arrow]` | VSCode (other editors?) | Highlight to the next word boundary to the left/right of the cursor |
 | 10/16 |  |  |  |
 | 10/19 |  |  |  |
 | 10/20 |  |  |  |
