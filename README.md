@@ -21,7 +21,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/13 | `cmd-d`<br>`cmd-k cmd-d`<br>`cmd-f` (search) `opt-enter` | VSCode (other editors?) | Select next instance of currently highlighted string (enabling multiple cursors)<br>Skip the next instance of the highlighted string to highlight the one that follows<br>Select all instances of a particular string |
 | 10/14 | `opt-shift-[up/down arrow]` | VSCode (other editors?) | Copy the entire line that the cursor is in above/below the cursor (line does not need to be highlighted) |
 | 10/15 | `opt-shift-[left/right arrow]` | VSCode (other editors?) | Highlight to the next word boundary to the left/right of the cursor |
-| 10/16 |  |  |  |
+| 10/16 | make-your-own shortcut! | VSCode | 1. `cmd-k cmd-s` to open the keyboard shortcut panel<br>2. scroll or search to find the command you want to change or bind to a new shortcut - like maybe you've been wishing for `move selected text [left/right]` shortcuts<br>3. hover over the command and click on the :pencil2: or :heavy_plus_sign: on the left to edit it<br>4. press the series of keys you'd like to use for the shortcut (VSCode will warn you if you've chosen a shortcut that already has another binding - i settled on `ctrl-shift-[` and `ctrl-shift-]`, which weren't bound to anything for me) |
 | 10/19 |  |  |  |
 | 10/20 |  |  |  |
 | 10/21 |  |  |  |
