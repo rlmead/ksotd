@@ -24,7 +24,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/16 | make-your-own shortcut! | VSCode | 1. `cmd-k cmd-s` to open the keyboard shortcut panel<br>2. scroll or search to find the command you want to change or bind to a new shortcut - like maybe you've been wishing for `move selected text [left/right]` shortcuts<br>3. hover over the command and click on the :pencil2: or :heavy_plus_sign: on the left to edit it<br>4. press the series of keys you'd like to use for the shortcut (VSCode will warn you if you've chosen a shortcut that already has another binding - i settled on `ctrl-shift-[` and `ctrl-shift-]`, which weren't bound to anything for me) |
 | 10/19 | `cmd-/` | VSCode | Toggle comments on current/highlighted line(s) |
 | 10/20 | `shift-cmd-k` | VSCode | Delete the line that the cursor is currently in, or a block of selected lines |
-| 10/21 |  |  |  |
+| 10/21 | `opt-shift-f` | VSCode | Auto-format code |
 | 10/22 |  |  |  |
 | 10/23 |  |  |  |
 | 10/26 |  |  |  |
