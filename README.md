@@ -25,7 +25,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/19 | `cmd-/` | VSCode | Toggle comments on current/highlighted line(s) |
 | 10/20 | `shift-cmd-k` | VSCode | Delete the line that the cursor is currently in, or a block of selected lines |
 | 10/21 | `opt-shift-f` | VSCode | Auto-format code |
-| 10/22 |  |  |  |
+| 10/22 | `ctrl-a`<br>`ctrl-e` | Terminal | Jump to the beginning/end of the command |
 | 10/23 |  |  |  |
 | 10/26 |  |  |  |
 | 10/27 |  |  |  |
