@@ -26,7 +26,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/20 | `shift-cmd-k` | VSCode | Delete the line that the cursor is currently in, or a block of selected lines |
 | 10/21 | `opt-shift-f` | VSCode | Auto-format code |
 | 10/22 | `ctrl-a`<br>`ctrl-e` | Terminal | Jump to the beginning/end of the command |
-| 10/23 |  |  |  |
+| 10/23 | `ctrl-r` | Terminal | Search the commands in your recent history |
 | 10/26 |  |  |  |
 | 10/27 |  |  |  |
 | 10/28 |  |  |  |
