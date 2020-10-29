@@ -30,7 +30,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/26 | `opt-cmd-[`<br>`opt-cmd-]` | VSCode | Fold the section of code that your cursor is in (at the lowest level that it can be folded)<br>Unfold the section of code that your cursor is in (if it's folded) |
 | 10/27 | `opt-cmd-[up/down arrow]` | VSCode | Spawn a new cursor above or below your current cursor(s) |
 | 10/28 | `cmd-k z`<br>`esc esc` | VSCode | Enter zen mode<br>Exit zen mode |
-| 10/29 |  |  |  |
+| 10/29 | `opt-z` | VSCode | Toggle word wrap |
 | 10/30 |  |  |  |
 | 11/02 |  |  |  |
 | 11/03 |  |  |  |
