@@ -32,7 +32,7 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 10/28 | `cmd-k z`<br>`esc esc` | VSCode | Enter zen mode<br>Exit zen mode |
 | 10/29 | `opt-z` | VSCode | Toggle word wrap |
 | 10/30 | `cmd-L` | VSCode | Highlight the entire line that the cursor is currently on |
-| 11/02 |  |  |  |
+| 11/02 | `opt-[left/right arrow]` | VSCode **and** Terminal | Jump to the next word boundary to the left/right of the cursor |
 | 11/03 |  |  |  |
 | 11/04 |  |  |  |
 | 11/05 |  |  |  |
