@@ -35,6 +35,6 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 11/02 | `opt-[left/right arrow]` | VSCode **and** Terminal | Jump to the next word boundary to the left/right of the cursor |
 | 11/03 | `ctrl-u` | Terminal | Delete everything between the cursor and the beginning of the command line |
 | 11/04 | `ctrl-k` | Terminal | Delete everything between the cursor and the end of the command line |
-| 11/05 |  |  |  |
+| 11/05 | `ctrl-t` | Terminal | Transpose the currently-highlighted character with the character to its left (or the two characters to the left of the cursor, if the cursor is at the end of the command) |
 | 11/06 |  |  |  |
 
