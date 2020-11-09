@@ -37,11 +37,11 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 11/04 | `ctrl-k` | Terminal | Delete everything between the cursor and the end of the command line |
 | 11/05 | `ctrl-t` | Terminal | Transpose the currently-highlighted character with the character to its left (or the two characters to the left of the cursor, if the cursor is at the end of the command) |
 | 11/06 | click & drag file from Finder to Terminal | Terminal | Automatically fill in the absolute path to the file |
-| 11/09 |  |  |  |
-| 11/10 |  |  |  |
-| 11/11 |  |  |  |
-| 11/12 |  |  |  |
-| 11/13 |  |  |  |
+| 11/09 | `ctrl-cmd-space` | OSX | Open emoji selector |
+| 11/10 | `option-click` | Terminal | Move terminal cursor to the selected position |
+| 11/11 | `double_click`<br>`triple_click`<br>`shift-cmd-double_click` | Terminal | Select a word<br>Select a line<br>Select a full path or URL |
+| 11/12 | `cmd-F`<br>(highlight word) + `cmd-E` | Terminal | Search for a string in the Terminal window<br>Open the search tool already filled in with highlighted word |
+| 11/13 | `cmd-G`<br>`cmd-shift-G` | Terminal | Toggle forwards and backwards through Terminal window search |
 | 11/16 |  |  |  |
 | 11/17 |  |  |  |
 | 11/18 |  |  |  |
