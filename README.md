@@ -41,8 +41,8 @@ Daily exercise for Awesome Inc Web Development Bootcamp
 | 11/10 | `option-click` | Terminal | Move terminal cursor to the selected position |
 | 11/11 | `double_click`<br>`triple_click`<br>`shift-cmd-double_click` | Terminal | Select a word<br>Select a line<br>Select a full path or URL |
 | 11/12 | `cmd-F`<br>(highlight word) + `cmd-E` | Terminal | Search for a string in the Terminal window<br>Open the search tool already filled in with highlighted word |
-| 11/13 | `cmd-G`<br>`cmd-shift-G` | Terminal | Toggle forwards and backwards through Terminal window search |
-| 11/16 |  |  |  |
+| 11/13 | `cmd-shift-3`<br>`cmd-shift-4`<br>`cmd-shift-4-space` | OSX | Take a screen shot of entire screen<br>Toggle cursor to select a portion of screen for screenshot<br>Toggle cursor to select a window for screenshot |
+| 11/16 | `ctrl-cmd-f` | OSX | Toggle full screen |
 | 11/17 |  |  |  |
 | 11/18 |  |  |  |
 | 11/19 |  |  |  |
